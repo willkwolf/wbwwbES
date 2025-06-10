@@ -41,6 +41,13 @@
             background: #000;
         }
         
+        .loading-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+        
         .loading-spinner {
             border: 4px solid #f3f3f3;
             border-top: 4px solid #3498db;
@@ -48,7 +55,12 @@
             width: 40px;
             height: 40px;
             animation: spin 1s linear infinite;
-            margin-bottom: 20px;
+        }
+        
+        .loading-text {
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
         }
         
         @keyframes spin {
@@ -72,9 +84,13 @@
 <body>
     <!-- Loading screen -->
     <div class="overlay visible" id="loading" role="status" aria-label="Loading game">
-        <div class="loading-spinner" aria-hidden="true"></div>
-        <div>Loading Game...</div>
-        <div dir="rtl">در حال بارگذاری بازی...</div>
+        <div class="loading-container">
+            <div class="loading-spinner" aria-hidden="true"></div>
+            <div class="loading-text">
+                <div>Loading Game...</div>
+                <div dir="rtl">در حال بارگذاری بازی...</div>
+            </div>
+        </div>
     </div>
     
     <!-- Main game container -->
@@ -244,7 +260,7 @@
             
             static updateProgress(loaded) {
                 const progress = Math.round((loaded / this.totalScripts) * 100);
-                const loadingText = document.querySelector('#loading div:first-of-type');
+                const loadingText = document.querySelector('#loading .loading-text div:first-child');
                 if (loadingText) {
                     loadingText.textContent = `Loading Game... ${progress}%`;
                 }
