@@ -526,39 +526,39 @@ var textStrings_ES = {
 	"tvOnTv": "Tele sobre tele... ¿y el contenido?",
 	"cricky": "Un grillito... qué tierno.",
 	"tooManyCrickets": "Ya basta de grillos, ¿no?",
-	"normalPeep": "una mirada respetable",
-	"normalPeeps": "miradas comunes y decentes",
+	"normalPeep": "Transeunte común.",
+	"normalPeeps": "Transeuntes comunes.",
 	"wowNothing": "WOW... *NO PASA NADA*",
 
 	// Acto 2 – caos, clasismo, xenofobia y segregación
 	"crazySquareAttacks": "¡CUADRADO VIOLENTO ATACA!",
 	"justMissed": "Casi... casi se matan.",
-	"somethingInteresting": "(¡pillalos haciendo bardo!)",
+	"somethingInteresting": "(¡pillalos haciendo alboroto!)",
 	"whoIsScreaming": "(enfoca al que grita odio)",
-	"circleFearsSquares": "CÍRCULOS TEMEN A CUADRADOS",
-	"whoScaresThem": "(mostrá al agresor directo)",
+	"circleFearsSquares": "ALERTA: Círculos temen a cuadrados",
+	"whoScaresThem": "(capturá tambien al agresor)",
 	"areTheyScared": "(captura el miedo puro)",
 	"squaresSnubCircles": "¿RACISMO?: Ni saludan",
-	"areTheySnubbed": "(pillalos despreciando fuerte)",
+	"areTheySnubbed": "(pillalos despreciando a un círculo)", // not used
 	"everyoneHates": "TODOS CONTRA TODOS",
-	"almostEveryoneHates": "¿Guerra Civil? Todos se odian",
+	"almostEveryoneHates": "ALERTA: ¿Guerra Civil?",
 	"squaresHateCircles": "FUERA! FUERA!, CÍRCULOS FUERA!",
 	"circlesHateSquares": "FUERA! FUERA!, CUADRADOS FUERA!",
 	"areTheyYelling": "(agárralos gritando insultos)",
-	"nerdsNow": "Ahora los ñoños se agrandan",
+	"nerdsNow": "Ahora que hacen los ñoños?",
 	"schockedPeep": "¿Qué le pasa al traumado este?",
-	"whatever": "Ay, lloren menos.",
+	"whatever": "Ay como sea, lloren menos.",
 
 	// Acto 3 – odio sin máscara, tribalismo, caos total
 	"ellipsis": ". . .",
-	"coolNoMore": "Eso ya no está bien visto.",
-	"beScared": "TENÉ MIEDO. ENFURECÉTE.",
+	"coolNoMore": "Ese sombrero no está bien visto",
+	"beScared": "ENFURECÉTE. TENÉ MIEDO.",
 
 	// MANIFIESTO
 	"manifesto": [
 		"¿Quién ve paz? ¡Queremos pelea!",
-		"el odio vende más que el amor",
-		"la gente exige conflicto, así que...",
+		"El odio vende más que el amor",
+		"La gente exige conflicto, así que...",
 		"DALE VIOLENCIA AL PUEBLO"
 	],
 
@@ -573,7 +573,7 @@ var textStrings_ES = {
 	"NickyCase": "Nicky Case",
 	"manyThanks": "Gracias por jugarlo todo:",
 	"patreonSupporters": "y a mis panas de Patreon:",
-	"lastButNotLeast": "y por último, gracias también a...",
+	"lastButNotLeast": "y por último, a...",
 	"thankYouForPlaying": "¡GRACIAS POR JUGAR!",
 
 	"playButton": "JUGAR",
@@ -586,8 +586,8 @@ var textStrings_ES = {
 	"toBeContinued": "(esto sigue...)",
 	"WBWWB": "We Become What We Behold",
 	"WSOTATOTSU": "Nos convertimos en lo que vemos",
-	"MarshallMcLuhan": "Simón Bolívar",
-	"misatrributed": "(Cita errónea)",
+	"MarshallMcLuhan": "Albert Einstein",
+	"misatrributed": "(Cita falsa)",
 };
 
 
