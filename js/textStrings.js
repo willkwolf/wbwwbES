@@ -565,7 +565,7 @@ var textStrings_ES = {
 	// Recursos gráficos
 
 	// (bg_preload.png)
-	"playingTime": "tiempo de juego: 5 min",
+	"playingTime": "Tiempo de juego: 6 minutos",
 	"warning": "ATENCIÓN: este juego contiene clasismo, machismo,\nmal de ojo y asesinatos masivos.\njuega bajo tu propio riesgo.",
 
 	// (cam-instructions.png)

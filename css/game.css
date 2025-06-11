@@ -1,13 +1,35 @@
+/* Definición de fuentes Cantarell */
 @font-face {
-	font-family: 'Cairo';
+	font-family: 'Cantarell';
 	font-style: normal;
 	font-weight: 400;
-	src: url('Cairo-Regular.ttf') format('truetype');
+	src: url('css/Cantarell-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cantarell';
+	font-style: italic;
+	font-weight: 400;
+	src: url('css/Cantarell-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cantarell';
+	font-style: normal;
+	font-weight: 700;
+	src: url('css/Cantarell-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cantarell';
+	font-style: italic;
+	font-weight: 700;
+	src: url('css/Cantarell-BoldItalic.ttf') format('truetype');
 }
 
 /* Fuentes de respaldo similares a redes sociales */
 body {
-	font-family: 'Cairo', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+	font-family: 'Cantarell', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
 }
 
 html, body {
