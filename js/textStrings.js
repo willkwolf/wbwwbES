@@ -526,25 +526,25 @@ var textStrings_ES = {
 	"tvOnTv": "¿Una tele dentro de otra tele? Qué raro.",
 	"cricky": "Un grillito, ¡qué tierno!",
 	"tooManyCrickets": "¿No hay invasión de grillos ya?",
-	"normalPeep": "Persona tranqui",
-	"normalPeeps": "unas cuantas miradas normales",
+	"normalPeep": "Muy normal, muy común",
+	"normalPeeps": "Miradas normales, NPC comunes",
 	"wowNothing": "WOWW... *NADAAA*",
 
 	// Acto 2 – sube el tono: intolerancia estructural, segregación, odio social
 	"crazySquareAttacks": "¡CUADRADO FUERA DE CONTROL ATACA A TODOS!",
 	"justMissed": "Uff... por poco y se arma.",
-	"somethingInteresting": "(captúralos haciendo *algo fuera de lugar*...)",
-	"whoIsScreaming": "(enfoca al que esté *armando lío*)",
+	"somethingInteresting": "(Captúralos haciendo *algo fuera de lugar*...)",
+	"whoIsScreaming": "(Enfoca al que esté *armando lío*)",
 	"circleFearsSquares": "LOS CÍRCULOS TEMEN A LOS CUADRADOS",
-	"whoScaresThem": "(muestra *quién los está amenazando*)",
-	"areTheyScared": "(atrapa el momento exacto del *miedo*)",
+	"whoScaresThem": "(Muestra *quién los está amenazando*)",
+	"areTheyScared": "(Atrapa el momento exacto del *miedo*)",
 	"squaresSnubCircles": "CUADRADOS NIEGAN SALUDOS A CÍRCULOS",
-	"areTheySnubbed": "(pillalos cuando los *ignoran con desprecio*)",
+	"areTheySnubbed": "(Pillalos cuando los *ignoran con desprecio*)",
 	"everyoneHates": "¡AQUÍ TODOS SE CREEN MEJOR QUE LOS DEMÁS!",
 	"almostEveryoneHates": "Ya casi todos se odian... falta poco.",
-	"squaresHateCircles": "CUADRADOS: 'NO QUEREMOS REDONDOS'",
+	"squaresHateCircles": "CUADRADOS: 'NO QUEREMOS MÁS REDONDOS'",
 	"circlesHateSquares": "CÍRCULOS: 'NOS HARTAMOS DE LOS CUADRADOS'",
-	"areTheyYelling": "(captúralos *gritando odio y prejuicios*)",
+	"areTheyYelling": "(Captúralos *gritando odio y prejuicios*)",
 	"nerdsNow": "¿Ahora resulta que estos raros también opinan?",
 	"schockedPeep": "¿Y este por qué pone cara de ofendido?",
 	"whatever": "Ay ya, qué exagerados todos...",
@@ -552,7 +552,7 @@ var textStrings_ES = {
 	// Acto 3 – máximo nivel: odio explícito, violencia simbólica, tribalismo radical
 	"ellipsis": ". . .",
 	"coolNoMore": "¿Te falta atención? ¡PONETE A ODIAR COMO TODOS!",
-	"beScared": "¡TENÉ MIEDO! ¡O TE PASA LO MISMO MARICÓN!",
+	"beScared": "¡TENÉ MIEDO! ¡O TE PASA LO MISMO BOLUD@!",
 
 	// MANIFIESTO
 	"manifesto": [
