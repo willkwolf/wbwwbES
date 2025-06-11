@@ -531,14 +531,14 @@ var textStrings_ES = {
 	"wowNothing": "WOWW... *NADAAA*",
 
 	// Acto 2 – sube el tono: intolerancia estructural, segregación, odio social
-	"crazySquareAttacks": "¡CUADRADO FUERA DE CONTROL ATACA A TODOS!",
+	"crazySquareAttacks": "¡UN CUADRADO ATACA A TODOS!",
 	"justMissed": "Uff... por poco y se arma.",
 	"somethingInteresting": "(Captúralos haciendo *algo fuera de lugar*...)",
 	"whoIsScreaming": "(Enfoca al que esté *armando lío*)",
-	"circleFearsSquares": "LOS CÍRCULOS TEMEN A LOS CUADRADOS",
+	"circleFearsSquares": "CÍRCULOS TEMEN A LOS CUADRADOS",
 	"whoScaresThem": "(Muestra *quién los está amenazando*)",
 	"areTheyScared": "(Atrapa el momento exacto del *miedo*)",
-	"squaresSnubCircles": "CUADRADOS NIEGAN SALUDOS A CÍRCULOS",
+	"squaresSnubCircles": "Cuadrados ignoran a los Círculos",
 	"areTheySnubbed": "(Pillalos cuando los *ignoran con desprecio*)",
 	"everyoneHates": "¡AQUÍ TODOS SE CREEN MEJOR QUE LOS DEMÁS!",
 	"almostEveryoneHates": "Ya casi todos se odian... falta poco.",
