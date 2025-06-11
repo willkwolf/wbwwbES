@@ -518,106 +518,104 @@ var textStrings_PT_BR = { //I put that way because portuguese from Brazil (PT_BR
 };
 
 var textStrings_ES = {
-	// Act 1
-	"niceHat": "OOH QUE BUEN SOMBRERO",
-	"outtaHere": "Vete de aquí",
-	"getARoom": "ASQUEROSO, VAYAN A UNA HABIATACIÓN",
-	"notCoolAnymore": "olvidenlo los sombreros ya no son geniales",
-	"tvOnTv": "Una TV... EN UNA TV!",
-	"cricky": "PEQUEÑO GRILLO <3",
-	"tooManyCrickets": "ok esos son demasiados grillos",
-	"normalPeep": "solo una mirada",
-	"normalPeeps": "solo algunas miradas",
-	"wowNothing": "WOWW, LA NADA",
+	// Acto 1
+	"niceHat": "¡QUÉ SOMBRERO MÁS CHINGÓN!",
+	"outtaHere": "¡LÁRGATE YA!",
+	"getARoom": "¡QUÉ ASCO! VAYAN A UN CUARTO",
+	"notCoolAnymore": "Ya fue. Los sombreros apestan.",
+	"tvOnTv": "Una tele... ¡DENTRO DE UNA TELE!",
+	"cricky": "UN GRILLITO <3",
+	"tooManyCrickets": "¡YA BASTA DE GRILLOS!",
+	"normalPeep": "una mirada normal",
+	"normalPeeps": "unas cuantas miradas normales",
+	"wowNothing": "WOWW... *NADAAA*",
 
-	// Act 2
-	"crazySquareAttacks": "EL CUADRADO LOCO ATACA",
-	"justMissed": "oooooh solo dejalo pasar",
-	"somethingInteresting": "(tienes que pillarlos haciendo *algo* interesante...)",
-	"whoIsScreaming": "(Tienes que enfocar al que grita)",
-	"circleFearsSquares": "CIRCULO TEME A CUADRADOS",
-	"whoScaresThem": "(también tienes que atrapar a *quién* les asusta)",
-	"areTheyScared": "(tienes que atraparlos *siendo* asustados por un cuadrado)", // not used
-	"squaresSnubCircles": "CUADRADOS DESPRECIAN A CIRCULOS",
-	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
-	"everyoneHates": "TODOS SE ODIAN!!1!",
-	"almostEveryoneHates": "CASI TODOS SE ODIAN...",
-	"squaresHateCircles": "CUADRADOS ODIAN A CIRCULOS",
-	"circlesHateSquares": "CIRCLES HATE SQUARES",
-	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
-	"nerdsNow": "que estan haciendo esos nerds",
-	"schockedPeep": "why's this peep shocked?",
-	"whatever": "Lo que sea",
+	// Acto 2
+	"crazySquareAttacks": "¡EL CUADRADO PSICÓPATA ATACA!",
+	"justMissed": "uuff... por poquito",
+	"somethingInteresting": "(captúralos haciendo *algo* jugoso...)",
+	"whoIsScreaming": "(enfoca al que esté *gritando como loco*)",
+	"circleFearsSquares": "CÍRCULOS CAGADOS DE MIEDO A CUADRADOS",
+	"whoScaresThem": "(también muestra *quién* los está asustando)",
+	"areTheyScared": "(atrapalos justo cuando se *cagan* del susto)",
+	"squaresSnubCircles": "CUADRADOS MENOSPRECIAN A LOS CÍRCULOS",
+	"areTheySnubbed": "(pillalos mientras *humillan* a un círculo)",
+	"everyoneHates": "¡TODOS SE ODIAN, CARAJO!",
+	"almostEveryoneHates": "Casi todos se odian... por ahora",
+	"squaresHateCircles": "CUADRADOS ODIAN CÍRCULOS A MUERTE",
+	"circlesHateSquares": "CÍRCULOS ODIAN CUADRADOS, Y CON RAZÓN",
+	"areTheyYelling": "(captúralos cuando estén *gritando como locos*)",
+	"nerdsNow": "¿Y estos ñoños qué hacen ahora?",
+	"schockedPeep": "¿Y a este qué le pasa, por qué esa cara?",
+	"whatever": "Lo que sea, me vale.",
 
-	// Act 3
+	// Acto 3
 	"ellipsis": ". . .",
-	"coolNoMore": "los sombreros ya no son cool, no lo has oido?",
-	"beScared": "ASUSTATE. ENOJATE.",
+	"coolNoMore": "¿No te enteraste? Los sombreros ya son de perdedor.",
+	"beScared": "TEN MIEDO. ¡CABREATE YA!",
 
-	// MANIFESTO
+	// MANIFIESTO
 	"manifesto": [
-		//"as if you viewers want GOOD news"       ,
-		"Quien prende la TV para ver *como se lleva la gente?*",
-		"la paz es aburrida. la violencia es viral.",
-		//"peace is boring. conflict gets clicks." ,
-		"y todos necesitan un conflicto, entonces...",
-		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-		"DALE A LA GENTE LO QUE PIDEN."
+		"¿Quién prende la tele pa’ ver gente llevándose bien?",
+		"la paz aburre. el put*o caos se vuelve viral.",
+		"todo el mundo quiere bardo, así que...",
+		"DALE AL PÚBLICO SU TOXICIDAD."
 	],
 
-	// -- Strings currently in graphics resources --
+	// Recursos gráficos
 
-	// (bg_preload.png) Preload screen
-	"playingTime": "tiempo jugando: 5 minutos",
-	"warning": "advertencia: el siguente programa contiene escenas esnobismo,\nrudeza & asesinato masivo.\ntelevidente tenga discreción.",
+	// (bg_preload.png)
+	"playingTime": "tiempo de juego: 5 min",
+	"warning": "ATENCIÓN: este juego contiene clasismo,\nmala leche y asesinatos masivos.\njuega bajo tu propio riesgo.",
 
-	// (cam-instructions.png) Camera Instructions
-	"pointAndClick": "APUNTA Y CLICK",
+	// (cam-instructions.png)
+	"pointAndClick": "APUNTA Y DALE CLICK",
 
 	// (chyron3.png)
-	"chyronNothing": "WOWW, LA *NADA*",
+	"chyronNothing": "WOWW, LA *NADA MISMA*",
 
 	// (credits0001.png)
 	"createdBy": "creado por",
 	"NickyCase": "Nicky Case",
 
 	// (credits0002.png)
-	"manyThanks": "Muchas gracias a todos los jugadores:",
+	"manyThanks": "Gracias eternas a quienes jugaron:",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": "y a mis subscriptores de patreon:",
+	"patreonSupporters": "y a mis panas de Patreon:",
 
 	// (credits0007.png)
-	"lastButNotLeast": "y por último, pero no menos importante,",
+	"lastButNotLeast": "y por último, pero no por eso menos bacano,", 
 
 	// (credits0008.png)
-	"thankYouForPlaying": "GRACIAS por jugar!",
+	"thankYouForPlaying": "¡GRACIAS POR JUGAR!",
 
 	// (preload_play.png)
 	"playButton": "JUGAR",
 
-	// (end_button.png) Post Credits
-	"otherWorkButton": "mira mis otros trabajos",
-	"buyCoffeeButton": "buy me a coffee",
-	"replayButton": "repite el desmadre",
+	// (end_button.png)
+	"otherWorkButton": "ver más cosas mías",
+	"buyCoffeeButton": "invítame un café",
+	"replayButton": "repite el mierdero",
 
-	// (logo.png) Post Credits
+	// (logo.png)
 	"logoWBWWB": "COMPARTE EL DOLOR:",
 
 	// (end_prototype.png)
 	"endOfPrototype": "FIN DEL PROTOTIPO",
-	"toBeContinued": "(continuará!)",
+	"toBeContinued": "(¡esto no se acaba aquí!)",
 
 	// (quote0002.png)
-	"WBWWB": "We become what we behold.",
-	"WSOTATOTSU": "Nosotros damos forma a nuestras herramientas y luego nuestras herramientas nos dan forma a nosotros.",
+	"WBWWB": "Nos convertimos en lo que miramos.",
+	"WSOTATOTSU": "Moldeamos nuestras herramientas... y luego ellas nos moldean a nosotros.",
 
 	// (quote0003.png)
 	"MarshallMcLuhan": "Marshall McLuhan",
 
 	// (quote0004.png)
-	"misatrributed": "(misattributed)",
+	"misatrributed": "(fuente errónea)",
 };
+
 
 var textStrings_ZH_TW = {
     // Act 1
