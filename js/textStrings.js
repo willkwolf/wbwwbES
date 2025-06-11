@@ -518,41 +518,41 @@ var textStrings_PT_BR = { //I put that way because portuguese from Brazil (PT_BR
 };
 
 var textStrings_ES = {
-	// Acto 1
-	"niceHat": "¡ESE SOMBRERO ESTÁ DE LOCOS!",
-	"outtaHere": "¡LÁRGATE YA!",
-	"getARoom": "¡Uyuyu! VAYAN A UN CUARTO",
-	"notCoolAnymore": "Ya fue. Los sombreros apestan.",
-	"tvOnTv": "Una tele... ¡DENTRO DE UNA TELE!",
-	"cricky": "UN GRILLITO <3",
-	"tooManyCrickets": "¡YA BASTA DE GRILLOS!",
-	"normalPeep": "una mirada normal",
+	// Acto 1 – tono conservador, pasivo-agresivo, moralista light
+	"niceHat": "Mmm... está de moda los sombreros.",
+	"outtaHere": "¿No deberían estar en otro lugar?",
+	"getARoom": "Uy... eso no se hace en público.",
+	"notCoolAnymore": "Ya pasó de moda. ¿Los dona el gobierno?.",
+	"tvOnTv": "¿Una tele dentro de otra tele? Qué raro.",
+	"cricky": "Un grillito, ¡qué tierno!",
+	"tooManyCrickets": "¿No hay invasión de grillos ya?",
+	"normalPeep": "Persona tranqui",
 	"normalPeeps": "unas cuantas miradas normales",
 	"wowNothing": "WOWW... *NADAAA*",
 
-	// Acto 2
-	"crazySquareAttacks": "¡EL CUADRADO PSICÓPATA ATACA!",
-	"justMissed": "uuff... por poquito",
-	"somethingInteresting": "(captúralos haciendo *algo* jugoso...)",
-	"whoIsScreaming": "(enfoca al que esté *gritando como loco*)",
-	"circleFearsSquares": "CÍRCULOS CAGADOS DE MIEDO A CUADRADOS",
-	"whoScaresThem": "(también muestra *quién* los está asustando)",
-	"areTheyScared": "(atrapalos justo cuando se *cagan* del susto)",
-	"squaresSnubCircles": "CUADRADOS MENOSPRECIAN A LOS CÍRCULOS",
-	"areTheySnubbed": "(pillalos mientras *humillan* a un círculo)",
-	"everyoneHates": "¡TODOS SE ODIAN, CARAJO!",
-	"almostEveryoneHates": "Casi todos se odian... por ahora",
-	"squaresHateCircles": "CUADRADOS ODIAN CÍRCULOS A MUERTE",
-	"circlesHateSquares": "CÍRCULOS ODIAN CUADRADOS, Y CON RAZÓN",
-	"areTheyYelling": "(captúralos cuando estén *gritando como locos*)",
-	"nerdsNow": "¿Y estos ñoños qué hacen ahora?",
-	"schockedPeep": "¿Y a este qué le pasa, por qué esa cara?",
-	"whatever": "Lo que sea, me vale.",
+	// Acto 2 – sube el tono: intolerancia estructural, segregación, odio social
+	"crazySquareAttacks": "¡CUADRADO FUERA DE CONTROL ATACA A TODOS!",
+	"justMissed": "Uff... por poco y se arma.",
+	"somethingInteresting": "(captúralos haciendo *algo fuera de lugar*...)",
+	"whoIsScreaming": "(enfoca al que esté *armando lío*)",
+	"circleFearsSquares": "LOS CÍRCULOS TEMEN A LOS CUADRADOS",
+	"whoScaresThem": "(muestra *quién los está amenazando*)",
+	"areTheyScared": "(atrapa el momento exacto del *miedo*)",
+	"squaresSnubCircles": "CUADRADOS NIEGAN SALUDOS A CÍRCULOS",
+	"areTheySnubbed": "(pillalos cuando los *ignoran con desprecio*)",
+	"everyoneHates": "¡AQUÍ TODOS SE CREEN MEJOR QUE LOS DEMÁS!",
+	"almostEveryoneHates": "Ya casi todos se odian... falta poco.",
+	"squaresHateCircles": "CUADRADOS: 'NO QUEREMOS REDONDOS'",
+	"circlesHateSquares": "CÍRCULOS: 'NOS HARTAMOS DE LOS CUADRADOS'",
+	"areTheyYelling": "(captúralos *gritando odio y prejuicios*)",
+	"nerdsNow": "¿Ahora resulta que estos raros también opinan?",
+	"schockedPeep": "¿Y este por qué pone cara de ofendido?",
+	"whatever": "Ay ya, qué exagerados todos...",
 
-	// Acto 3
+	// Acto 3 – máximo nivel: odio explícito, violencia simbólica, tribalismo radical
 	"ellipsis": ". . .",
-	"coolNoMore": "¿No te enteraste? Los sombreros ya son de perdedor.",
-	"beScared": "TEN MIEDO. ¡CABREATE YA!",
+	"coolNoMore": "¿Te falta atención? ¡PONETE A ODIAR COMO TODOS!",
+	"beScared": "¡TENÉ MIEDO! ¡O TE PASA LO MISMO MARICÓN!",
 
 	// MANIFIESTO
 	"manifesto": [
@@ -564,57 +564,37 @@ var textStrings_ES = {
 
 	// Recursos gráficos
 
-	// (bg_preload.png)
-	"playingTime": "Tiempo de juego: 6 minutos",
-	"warning": "ATENCIÓN: este juego contiene clasismo, machismo,\nmal de ojo y asesinatos masivos.\njuega bajo tu propio riesgo.",
+	"playingTime": "tiempo de juego: 5 min",
+	"warning": "ATENCIÓN: este juego contiene clasismo,\nmala leche y asesinatos masivos.\njuega bajo tu propio riesgo.",
 
-	// (cam-instructions.png)
 	"pointAndClick": "APUNTA Y DALE CLICK",
 
-	// (chyron3.png)
 	"chyronNothing": "WOWW, LA *NADA MISMA*",
 
-	// (credits0001.png)
 	"createdBy": "creado por",
 	"NickyCase": "Nicky Case",
 
-	// (credits0002.png)
 	"manyThanks": "Gracias eternas a quienes jugaron:",
-
-	// (credits000[3,4,5,6].png)
 	"patreonSupporters": "y a mis panas de Patreon:",
-
-	// (credits0007.png)
 	"lastButNotLeast": "y por último, pero no por eso menos bacano,", 
-
-	// (credits0008.png)
 	"thankYouForPlaying": "¡GRACIAS POR JUGAR!",
 
-	// (preload_play.png)
 	"playButton": "JUGAR",
-
-	// (end_button.png)
 	"otherWorkButton": "ver más cosas mías",
 	"buyCoffeeButton": "invítame un café",
-	"replayButton": "repite el mierdero",
+	"replayButton": "repite el quilombo",
 
-	// (logo.png)
 	"logoWBWWB": "COMPARTE EL DOLOR:",
 
-	// (end_prototype.png)
 	"endOfPrototype": "FIN DEL PROTOTIPO",
 	"toBeContinued": "(¡esto no se acaba aquí!)",
 
-	// (quote0002.png)
 	"WBWWB": "Nos convertimos en lo que miramos.",
 	"WSOTATOTSU": "Moldeamos nuestras herramientas... y luego ellas nos moldean a nosotros.",
-
-	// (quote0003.png)
 	"MarshallMcLuhan": "Marshall McLuhan",
-
-	// (quote0004.png)
-	"misatrributed": "(fuente: errónea)",
+	"misatrributed": "(mal atribuido)",
 };
+
 
 
 var textStrings_ZH_TW = {
