@@ -518,82 +518,78 @@ var textStrings_PT_BR = { //I put that way because portuguese from Brazil (PT_BR
 };
 
 var textStrings_ES = {
-	// Acto 1 – tono conservador, pasivo-agresivo, moralista light
-	"niceHat": "Mmm... está de moda los sombreros.",
-	"outtaHere": "¿No deberían estar en otro lugar?",
-	"getARoom": "Uy... eso no se hace en público.",
-	"notCoolAnymore": "Ya pasó de moda. ¿Los dona el gobierno?.",
-	"tvOnTv": "¿Una tele dentro de otra tele? Qué raro.",
-	"cricky": "Un grillito, ¡qué tierno!",
-	"tooManyCrickets": "¿No hay invasión de grillos ya?",
-	"normalPeep": "Muy normal, muy común",
-	"normalPeeps": "Miradas normales, NPC comunes",
-	"wowNothing": "WOWW... *NADAAA*",
+	// Acto 1 – moralismos y “buenas costumbres”
+	"niceHat": "Ese sombrero no es de gente seria.",
+	"outtaHere": "¿No tienen casa o qué?",
+	"getARoom": "Eso no se hace en la calle.",
+	"notCoolAnymore": "Eso ya no está bien visto.",
+	"tvOnTv": "Tele sobre tele... ¿y el contenido?",
+	"cricky": "Un grillito... qué tierno.",
+	"tooManyCrickets": "Ya basta de grillos, ¿no?",
+	"normalPeep": "una mirada respetable",
+	"normalPeeps": "miradas comunes y decentes",
+	"wowNothing": "WOW... *NO PASA NADA*",
 
-	// Acto 2 – sube el tono: intolerancia estructural, segregación, odio social
-	"crazySquareAttacks": "¡UN CUADRADO ATACA A TODOS!",
-	"justMissed": "Uff... por poco y se arma.",
-	"somethingInteresting": "(Captúralos haciendo *algo fuera de lugar*...)",
-	"whoIsScreaming": "(Enfoca al que esté *armando lío*)",
-	"circleFearsSquares": "CÍRCULOS TEMEN A LOS CUADRADOS",
-	"whoScaresThem": "(Muestra *quién los está amenazando*)",
-	"areTheyScared": "(Atrapa el momento exacto del *miedo*)",
-	"squaresSnubCircles": "Cuadrados ignoran a los Círculos",
-	"areTheySnubbed": "(Pillalos cuando los *ignoran con desprecio*)",
-	"everyoneHates": "¡AQUÍ TODOS SE CREEN MEJOR QUE LOS DEMÁS!",
-	"almostEveryoneHates": "Ya casi todos se odian... falta poco.",
-	"squaresHateCircles": "CUADRADOS: 'NO QUEREMOS MÁS REDONDOS'",
-	"circlesHateSquares": "CÍRCULOS: 'NOS HARTAMOS DE LOS CUADRADOS'",
-	"areTheyYelling": "(Captúralos *gritando odio y prejuicios*)",
-	"nerdsNow": "¿Ahora resulta que estos raros también opinan?",
-	"schockedPeep": "¿Y este por qué pone cara de ofendido?",
-	"whatever": "Ay ya, qué exagerados todos...",
+	// Acto 2 – caos, clasismo, xenofobia y segregación
+	"crazySquareAttacks": "¡CUADRADO VIOLENTO ATACA!",
+	"justMissed": "Casi... casi se matan.",
+	"somethingInteresting": "(¡pillalos haciendo bardo!)",
+	"whoIsScreaming": "(enfoca al que grita odio)",
+	"circleFearsSquares": "CÍRCULOS TEMEN A CUADRADOS",
+	"whoScaresThem": "(mostrá al agresor directo)",
+	"areTheyScared": "(captura el miedo puro)",
+	"squaresSnubCircles": "NI SALUDO LES DAN",
+	"areTheySnubbed": "(pillalos despreciando fuerte)",
+	"everyoneHates": "TODOS CONTRA TODOS",
+	"almostEveryoneHates": "Falta poco para matarse",
+	"squaresHateCircles": "FUERA RARITOS DE MIERDA",
+	"circlesHateSquares": "¡NOS QUIEREN BORRAR!",
+	"areTheyYelling": "(agárralos gritando insultos)",
+	"nerdsNow": "Ahora los ñoños se agrandan",
+	"schockedPeep": "¿Qué le pasa al traumado este?",
+	"whatever": "Ay, lloren menos.",
 
-	// Acto 3 – máximo nivel: odio explícito, violencia simbólica, tribalismo radical
+	// Acto 3 – odio sin máscara, tribalismo, caos total
 	"ellipsis": ". . .",
-	"coolNoMore": "¿Te falta atención? ¡PONETE A ODIAR COMO TODOS!",
-	"beScared": "¡TENÉ MIEDO! ¡O TE PASA LO MISMO BOLUD@!",
+	"coolNoMore": "¿Querés atención? ¡ODIÁ YA!",
+	"beScared": "¡SI NO ODIÁS, SOS BLANCO FÁCIL!",
 
 	// MANIFIESTO
 	"manifesto": [
-		"¿Quién prende la tele pa’ ver gente llevándose bien?",
-		"la paz aburre. el put*o caos se vuelve viral.",
-		"todo el mundo quiere bardo, así que...",
-		"DALE AL PÚBLICO SU TOXICIDAD."
+		"¿Quién ve paz? ¡Queremos pelea!",
+		"el odio vende más que el amor",
+		"la gente exige conflicto, así que...",
+		"DALE MÁS VIOLENCIA AL PUEBLO"
 	],
 
 	// Recursos gráficos
-
 	"playingTime": "tiempo de juego: 5 min",
-	"warning": "ATENCIÓN: este juego contiene clasismo,\nmala leche y asesinatos masivos.\njuega bajo tu propio riesgo.",
+	"warning": "ATENCIÓN: contiene clasismo,\nmala leche y asesinatos.",
 
-	"pointAndClick": "APUNTA Y DALE CLICK",
-
+	"pointAndClick": "APUNTA Y DA CLICK",
 	"chyronNothing": "WOWW, LA *NADA MISMA*",
 
 	"createdBy": "creado por",
 	"NickyCase": "Nicky Case",
-
-	"manyThanks": "Gracias eternas a quienes jugaron:",
+	"manyThanks": "Gracias por jugarlo todo:",
 	"patreonSupporters": "y a mis panas de Patreon:",
-	"lastButNotLeast": "y por último, pero no por eso menos bacano,", 
+	"lastButNotLeast": "y por último, gracias también a...",
 	"thankYouForPlaying": "¡GRACIAS POR JUGAR!",
 
 	"playButton": "JUGAR",
 	"otherWorkButton": "ver más cosas mías",
 	"buyCoffeeButton": "invítame un café",
-	"replayButton": "repite el quilombo",
+	"replayButton": "repitir el mierdero",
 
-	"logoWBWWB": "COMPARTE EL DOLOR:",
-
+	"logoWBWWB": "COMPARTÍ EL DOLOR:",
 	"endOfPrototype": "FIN DEL PROTOTIPO",
-	"toBeContinued": "(¡esto no se acaba aquí!)",
-
+	"toBeContinued": "(esto sigue...)",
 	"WBWWB": "Nos convertimos en lo que miramos.",
-	"WSOTATOTSU": "Moldeamos nuestras herramientas... y luego ellas nos moldean a nosotros.",
+	"WSOTATOTSU": "Creamos herramientas que nos crean.",
 	"MarshallMcLuhan": "Marshall McLuhan",
 	"misatrributed": "(mal atribuido)",
 };
+
 
 
 
