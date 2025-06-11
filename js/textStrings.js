@@ -519,10 +519,10 @@ var textStrings_PT_BR = { //I put that way because portuguese from Brazil (PT_BR
 
 var textStrings_ES = {
 	// Acto 1 – moralismos y “buenas costumbres”
-	"niceHat": "Ese sombrero no es de gente seria.",
+	"niceHat": "Ese sombrero es #chick.",
 	"outtaHere": "¿No tienen casa o qué?",
 	"getARoom": "Eso no se hace en la calle.",
-	"notCoolAnymore": "Eso ya no está bien visto.",
+	"notCoolAnymore": "Eso ya pasó de moda.",
 	"tvOnTv": "Tele sobre tele... ¿y el contenido?",
 	"cricky": "Un grillito... qué tierno.",
 	"tooManyCrickets": "Ya basta de grillos, ¿no?",
@@ -538,12 +538,12 @@ var textStrings_ES = {
 	"circleFearsSquares": "CÍRCULOS TEMEN A CUADRADOS",
 	"whoScaresThem": "(mostrá al agresor directo)",
 	"areTheyScared": "(captura el miedo puro)",
-	"squaresSnubCircles": "NI SALUDO LES DAN",
+	"squaresSnubCircles": "¿RACISMO?: Ni saludan",
 	"areTheySnubbed": "(pillalos despreciando fuerte)",
 	"everyoneHates": "TODOS CONTRA TODOS",
-	"almostEveryoneHates": "Falta poco para matarse",
-	"squaresHateCircles": "FUERA RARITOS DE MIERDA",
-	"circlesHateSquares": "¡NOS QUIEREN BORRAR!",
+	"almostEveryoneHates": "¿Guerra Civil? Todos se odian",
+	"squaresHateCircles": "FUERA! FUERA!, CÍRCULOS FUERA!",
+	"circlesHateSquares": "FUERA! FUERA!, CUADRADOS FUERA!",
 	"areTheyYelling": "(agárralos gritando insultos)",
 	"nerdsNow": "Ahora los ñoños se agrandan",
 	"schockedPeep": "¿Qué le pasa al traumado este?",
@@ -551,15 +551,15 @@ var textStrings_ES = {
 
 	// Acto 3 – odio sin máscara, tribalismo, caos total
 	"ellipsis": ". . .",
-	"coolNoMore": "¿Querés atención? ¡ODIÁ YA!",
-	"beScared": "¡SI NO ODIÁS, SOS BLANCO FÁCIL!",
+	"coolNoMore": "Eso ya no está bien visto.",
+	"beScared": "TENÉ MIEDO. ENFURECÉTE.",
 
 	// MANIFIESTO
 	"manifesto": [
 		"¿Quién ve paz? ¡Queremos pelea!",
 		"el odio vende más que el amor",
 		"la gente exige conflicto, así que...",
-		"DALE MÁS VIOLENCIA AL PUEBLO"
+		"DALE VIOLENCIA AL PUEBLO"
 	],
 
 	// Recursos gráficos
@@ -584,10 +584,10 @@ var textStrings_ES = {
 	"logoWBWWB": "COMPARTÍ EL DOLOR:",
 	"endOfPrototype": "FIN DEL PROTOTIPO",
 	"toBeContinued": "(esto sigue...)",
-	"WBWWB": "Nos convertimos en lo que miramos.",
-	"WSOTATOTSU": "Creamos herramientas que nos crean.",
-	"MarshallMcLuhan": "Marshall McLuhan",
-	"misatrributed": "(mal atribuido)",
+	"WBWWB": "We Become What We Behold",
+	"WSOTATOTSU": "Nos convertimos en lo que vemos",
+	"MarshallMcLuhan": "Simón Bolívar",
+	"misatrributed": "(Cita errónea)",
 };
 
 
