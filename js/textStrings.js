@@ -519,9 +519,9 @@ var textStrings_PT_BR = { //I put that way because portuguese from Brazil (PT_BR
 
 var textStrings_ES = {
 	// Acto 1
-	"niceHat": "¡QUÉ SOMBRERO MÁS CHINGÓN!",
+	"niceHat": "¡ESE SOMBRERO ESTÁ DE LOCOS!",
 	"outtaHere": "¡LÁRGATE YA!",
-	"getARoom": "¡QUÉ ASCO! VAYAN A UN CUARTO",
+	"getARoom": "¡Uyuyu! VAYAN A UN CUARTO",
 	"notCoolAnymore": "Ya fue. Los sombreros apestan.",
 	"tvOnTv": "Una tele... ¡DENTRO DE UNA TELE!",
 	"cricky": "UN GRILLITO <3",
@@ -566,7 +566,7 @@ var textStrings_ES = {
 
 	// (bg_preload.png)
 	"playingTime": "tiempo de juego: 5 min",
-	"warning": "ATENCIÓN: este juego contiene clasismo,\nmala leche y asesinatos masivos.\njuega bajo tu propio riesgo.",
+	"warning": "ATENCIÓN: este juego contiene clasismo, machismo,\nmal de ojo y asesinatos masivos.\njuega bajo tu propio riesgo.",
 
 	// (cam-instructions.png)
 	"pointAndClick": "APUNTA Y DALE CLICK",
@@ -613,7 +613,7 @@ var textStrings_ES = {
 	"MarshallMcLuhan": "Marshall McLuhan",
 
 	// (quote0004.png)
-	"misatrributed": "(fuente errónea)",
+	"misatrributed": "(fuente: errónea)",
 };
 
 
